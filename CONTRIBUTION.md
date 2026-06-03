@@ -36,7 +36,7 @@ Each agent project added must include the following at the top level of its fold
 Example metadata schema (recommended)
 ```yaml
 title: quick-chatbot-agent
-author: Your Name <you@example.com>
+author: Your Name <prathyushakondaveeti@example.com>
 language: python
 tags:
   - llm
