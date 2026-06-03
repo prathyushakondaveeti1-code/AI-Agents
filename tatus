@@ -1,0 +1,85 @@
+*   [33mc245d34[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m Merge remote and local repositories
+[31m|[m[32m\[m  
+[31m|[m * [33m62f2387[m Delete .github/workflows/jekyll-gh-pages
+[31m|[m * [33m5d92987[m Add files via upload
+[31m|[m * [33mf4805b5[m Create jekyll-gh-page
+[31m|[m * [33mf6df714[m Delete .github/workflows
+[31m|[m * [33m11216ad[m Create workflows
+[31m|[m * [33m60e5d0b[m Add files via upload
+[31m|[m * [33mf3a4d5e[m Initial commit
+* [33m8381ec5[m Initial commit
+* [33m0716ef8[m[33m ([m[1;31mupstream/main[m[33m, [m[1;31mupstream/HEAD[m[33m)[m AI agents
+* [33m6a5769e[m Updated Star live chart
+* [33m339c88a[m star history live chart
+* [33m06924e3[m Star History added
+* [33mdcaa36b[m Add MIT License to the project
+*   [33m715f939[m Merge branch 'main' of https://github.com/ashishpatel26/500-AI-Agents-Projects
+[33m|[m[34m\[m  
+[33m|[m * [33mf5a0921[m Add/update CONTRIBUTION.md and add LICENSE (MIT)
+[33m|[m * [33mb9a11ac[m Add CONTRIBUTION.md and LICENSE (MIT)
+* [34m|[m [33mfd2a22d[m Readme updated and CONTRIBUTION.md file added
+[34m|[m[34m/[m  
+* [33m7dcb006[m CrewAI Broken Links Updated
+[34m|[m * [33mb08574e[m[33m ([m[1;31mupstream/revert-31-main[m[33m)[m Revert "Update README.md"
+[34m|[m[34m/[m  
+*   [33m93fbcd5[m Merge pull request #31 from shaishav06/main
+[36m|[m[1;31m\[m  
+[36m|[m *   [33m7b8c25d[m Merge branch 'main' into main
+[36m|[m [1;32m|[m[36m\[m  
+[36m|[m [1;32m|[m[36m/[m  
+[36m|[m[36m/[m[1;32m|[m   
+[36m|[m * [33m7d38a3e[m Update README.md
+[36m|[m [1;33m|[m * [33m6e09b75[m[33m ([m[1;31mupstream/copilot/fix-23[m[33m)[m Fix AI agent repository issues: grammar, missing files, and duplicates
+[36m|[m [1;33m|[m * [33m83224a3[m Initial plan
+[36m|[m [1;33m|[m[36m/[m  
+[36m|[m[36m/[m[1;33m|[m   
+[36m|[m [1;33m|[m * [33mf9c5322[m[33m ([m[1;31mupstream/copilot/fix-81799c4b-673c-4f46-94d3-8dbd7491804f[m[33m)[m Fix markdown formatting issues and add CI/CD linting
+[36m|[m [1;33m|[m * [33m9cc2624[m Initial plan
+[36m|[m [1;33m|[m[36m/[m  
+[36m|[m[36m/[m[1;33m|[m   
+* [1;33m|[m [33m743c81e[m Create jekyll-gh-pages.yml
+* [1;33m|[m   [33m0454fb7[m Merge pull request #14 from ashishpatel26/copilot/fix-10d2ad23-53e7-4053-9882-918cfdf5017d
+[1;36m|[m[31m\[m [1;33m\[m  
+[1;36m|[m [31m|[m [1;33m|[m * [33m930c017[m[33m ([m[1;31mupstream/copilot/fix-10d2ad23-53e7-4053-9882-918cfdf5017d[m[33m)[m Add MIT License file with 2025 copyright and ashishpatel26 as copyright holder
+[1;36m|[m [31m|[m [1;33m|[m[31m/[m  
+[1;36m|[m [31m|[m[31m/[m[1;33m|[m   
+[1;36m|[m * [1;33m|[m [33mf054d5a[m Initial plan
+[1;36m|[m[1;36m/[m [1;33m/[m  
+* [1;33m|[m [33mb27f1f7[m Latest Merge
+* [1;33m|[m   [33m516da84[m Merge pull request #7 from PurpleCHOIms/main
+[33m|[m[34m\[m [1;33m\[m  
+[33m|[m * [1;33m|[m [33m823a2b5[m Add Cybersecurity Agent use case
+[33m|[m * [1;33m|[m [33mdb9bde0[m ADD cybersecurity use case.md
+[33m|[m[33m/[m [1;33m/[m  
+* [1;33m|[m [33md7f99d9[m new Langgraph adgent added
+* [1;33m|[m [33m1ec168e[m Langgraph-SQL Agent added
+* [1;33m|[m [33m4d4646d[m Langgraph usecase added
+* [1;33m|[m [33m1e3e55b[m Merge pull request #2 from shaishav06/main
+[35m|[m[1;33m\[m[1;33m|[m 
+[35m|[m * [33md588a75[m Agno Agent Usecases added
+[35m|[m[35m/[m  
+* [33m03bcf96[m agno agent added
+*   [33md953378[m Merge pull request #1 from harshhh28/main
+[1;31m|[m[1;32m\[m  
+[1;31m|[m * [33m17f63be[m update readme.md
+[1;31m|[m[1;31m/[m  
+* [33meedce99[m image updated
+* [33m864c780[m small updates
+* [33m77a3db6[m Project name changes
+* [33ma00c7b4[m Usecase image modification
+* [33m35ba272[m All framework code added
+* [33m0cf6e6e[m updated usecases
+* [33md3ea2d9[m 59 new agent usecase added
+* [33m984e07f[m Frameworkwise usecase added
+* [33m28d87a7[m updated readme
+* [33m7e3eccc[m udpated markdown table of contents
+* [33ma6fbbe7[m updated
+* [33ma202db4[m mindmap added
+* [33mcb98cad[m CrewAI UseCases Added
+* [33m374ef5b[m Poster is Added
+* [33m4f20e9d[m new agent usecase added
+* [33m53dca18[m updated
+* [33mc10691f[m new repo added
+* [33mf87a141[m Readme Update
+* [33m669a7b0[m update Readme
+* [33mf4fe6ec[m Initial commit
